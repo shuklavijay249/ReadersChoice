@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorRow">#FFFFFF</color>
+    <color name="colorBackground">#f1f1f1</color>
+
+    <color name="lightGrey">#888888</color>
+    <color name="grey">#818181</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#435692</color>
+    <color name="lightblue">#d2e4ec</color>
+    <color name="ii">#e2e4ec</color>
+    <color name="blacktrasnparent">#50000000</color>
+    <color name="bgcolor">#ECF7FD</color>
+    <color name="background_user_profile">#F1F5F8</color>
+    <color name="permissioncolor">#0099cc</color>
+    <color name="textcolor">#818181</color>
+    <color name="textcolordark">#666666</color>
+
+    <color name="white1">#f9fbfb</color>
+    <color name="cardband">#f3fafc</color>
+    <color name="card">#f9fbfb</color>
+
+    <color name="blue1">#0099cc</color>
+
+</resources>

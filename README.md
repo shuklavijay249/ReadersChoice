@@ -1,13 +1,10 @@
-# RecyclerView-LoadMore
-RecyclerView Endless Load More Example
-
-Blog Post
-http://sab99r.com/blog/recyclerview-endless-load-more/
+# Reader's Choice
+Reader's Choice
 
 
 # Licence
 
-Copyright 2016 Sabeer Mohammed
+Copyright 2018 Vijay Shukla
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
